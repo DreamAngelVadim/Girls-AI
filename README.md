@@ -20,7 +20,7 @@
 
 python -m venv Girls-AI
 .\Girls-AI\Scripts\activate  # Windows
-# source Girls-AI/bin/activate  # Linux/Mac
+ source Girls-AI/bin/activate  # Linux/Mac
 
 🧠 Установите зависимости
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 💬 Установите Ollama и скачайте модель
 
-# Установите Ollama с https://ollama.com
+ Установите Ollama с https://ollama.com
 
 ✏️ Скачайте русскоязычную Qwen модель
 
