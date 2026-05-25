@@ -126,7 +126,6 @@
 | 💬 **Discord** | [DreamAngelVadim](https://discord.com/users/418392722806669322) |
 
 </div>
----
 
 <div align="center">
   <sub>💬 Предложения и пожелания приветствуются в Issues! 💬</sub>
