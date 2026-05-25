@@ -32,18 +32,24 @@
 
 <div align="center">
 
-| Шаг | Команда |
+| | |
 |:---:|:---|
-| **1** | `git clone https://github.com/DreamAngelVadim/Girls-AI.git && cd Girls-AI` |
-| **2** | `python -m venv Girls-AI` |
-| **3** | `source Girls-AI/bin/activate` — Linux/Mac<br>`.\Girls-AI\Scripts\activate` — Windows |
-| **4** | `pip install -r requirements.txt` |
-| **5** | Скачайте [Ollama](https://ollama.com) |
-| **6** | `ollama run hf.co/RefalMachine/ruadapt_qwen2.5_7B_ext_u48_instruct_gguf:Q4_K_M` |
-| **7** | `python main.py` |
+| **1️⃣ Клонирование** | `git clone https://github.com/DreamAngelVadim/Girls-AI.git && cd Girls-AI` |
+| **2️⃣ Виртуальное окружение** | `python -m venv Girls-AI` |
+| **3️⃣ Активация (Linux/Mac)** | `source Girls-AI/bin/activate` |
+| **3️⃣ Активация (Windows)** | `.\Girls-AI\Scripts\activate` |
+| **4️⃣ Зависимости** | `pip install -r requirements.txt` |
+| **5️⃣ Ollama** | Скачайте с [ollama.com](https://ollama.com) |
+| **6️⃣ Модель Qwen** | `ollama run hf.co/RefalMachine/ruadapt_qwen2.5_7B_ext_u48_instruct_gguf:Q4_K_M` |
+| **7️⃣ Запуск** | `python main.py` |
 
 </div>
 
+---
+
+<div align="center">
+  <sub>✨ После выполнения всех шагов ассистент готов к работе! ✨</sub>
+</div>
 🎮 Команды
 Что сказать	Реакция
 Чу Чу, привет	Чу Чу отвечает
