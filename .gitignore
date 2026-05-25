@@ -3,13 +3,21 @@ Girls-AI/
 __pycache__/
 *.pyc
 
-# Временные аудиофайлы
+# Временные файлы
 *.wav
 temp_audio.wav
 temp.wav
 
-# FFmpeg (внешняя программа)
-ffmpeg/
-
 # Логи
 *.log
+
+# FFmpeg
+ffmpeg/
+
+# Папка с данными (если не нужна в репозитории)
+Girls/ChuChu/
+Girls/Mai/
+Girls/logs/
+Girls/models/
+Girls/src/
+Girls/voices/
