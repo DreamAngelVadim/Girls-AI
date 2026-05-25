@@ -1,0 +1,17 @@
+# Создаем файл .gitignore
+@"
+# Виртуальное окружение
+Girls-AI/
+__pycache__/
+*.pyc
+
+# Временные аудиофайлы
+temp_audio.wav
+temp_audio/
+*.wav
+
+# Логи и кэш
+*.log
+.cache/
+.cache
+"@ | Out-File -FilePath .gitignore -Encoding utf8
