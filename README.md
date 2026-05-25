@@ -123,9 +123,9 @@
 |:---:|:---|
 | 🐙 **GitHub** | [DreamAngelVadim](https://github.com/DreamAngelVadim) |
 | 🎀 **Проект** | [Girls-AI](https://github.com/DreamAngelVadim/Girls-AI) |
+| 💬 **Discord** | [DreamAngelVadim](https://discord.com/users/418392722806669322) |
 
 </div>
-
 ---
 
 <div align="center">
