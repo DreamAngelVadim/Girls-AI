@@ -1,5 +1,12 @@
 # 🎀 Girls-AI — Голосовой помощник с двумя персонажами
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/DreamAngelVadim/Girls-AI)
+
+</div>
 Голосовой помощник с двумя девушками — **Чу Чу** (18 лет, косплей-модель) и **Мэй** (22 года, крафтерша). Ассистент распознаёт голос, отвечает через нейросеть Qwen 2.5-7B (локально, без интернета), поддерживает фоновые диалоги между персонажами и автоматическое исправление опечаток.
 
 ---
