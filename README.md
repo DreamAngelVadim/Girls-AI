@@ -30,25 +30,19 @@
 
 ## 🚀 Быстрая установка
 
-# 1. Клонируйте репозиторий
-git clone https://github.com/DreamAngelVadim/Girls-AI.git
-cd Girls-AI
+<div align="center">
 
-# 2. Создайте виртуальное окружение
-python -m venv Girls-AI
-source Girls-AI/bin/activate  # Linux/Mac
-# .\Girls-AI\Scripts\activate  # Windows
+| Шаг | Команда |
+|:---:|:---|
+| **1** | `git clone https://github.com/DreamAngelVadim/Girls-AI.git && cd Girls-AI` |
+| **2** | `python -m venv Girls-AI` |
+| **3** | `source Girls-AI/bin/activate` — Linux/Mac<br>`.\Girls-AI\Scripts\activate` — Windows |
+| **4** | `pip install -r requirements.txt` |
+| **5** | Скачайте [Ollama](https://ollama.com) |
+| **6** | `ollama run hf.co/RefalMachine/ruadapt_qwen2.5_7B_ext_u48_instruct_gguf:Q4_K_M` |
+| **7** | `python main.py` |
 
-# 3. Установите зависимости
-pip install -r requirements.txt
-
-# 4. Установите Ollama (скачайте с https://ollama.com)
-
-# 5. Скачайте русскоязычную Qwen модель
-ollama run hf.co/RefalMachine/ruadapt_qwen2.5_7B_ext_u48_instruct_gguf:Q4_K_M
-
-# 6. Запустите ассистента
-python main.py
+</div>
 
 🎮 Команды
 Что сказать	Реакция
