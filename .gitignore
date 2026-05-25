@@ -14,4 +14,11 @@ temp_audio/
 *.log
 .cache/
 .cache
-"@ | Out-File -FilePath .gitignore -Encoding utf8
+"@ | Out-File -FilePath .gitignore -Encoding utf8*.wav
+temp_audio.wav
+temp.wav
+__pycache__/
+*.pyc
+Girls-AI/
+ffmpeg/
+Girls/
