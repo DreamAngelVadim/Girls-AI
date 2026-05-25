@@ -30,15 +30,14 @@
 
 ## 🚀 Быстрая установка
 
-
 # 1. Клонируйте репозиторий
 git clone https://github.com/DreamAngelVadim/Girls-AI.git
 cd Girls-AI
 
 # 2. Создайте виртуальное окружение
 python -m venv Girls-AI
-.\Girls-AI\Scripts\activate  # Windows
-# source Girls-AI/bin/activate  # Linux/Mac
+source Girls-AI/bin/activate  # Linux/Mac
+# .\Girls-AI\Scripts\activate  # Windows
 
 # 3. Установите зависимости
 pip install -r requirements.txt
