@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ✨ Запустите ассистента
 
-python main.py
+🔇 python main.py
 ---
 ## 🚀 Установка
 
