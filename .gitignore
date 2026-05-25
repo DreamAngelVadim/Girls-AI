@@ -1,21 +1,15 @@
-# Создаём правильный .gitignore
-@"
-# Виртуальное окружение
+﻿# Виртуальное окружение
 Girls-AI/
-Girls/Girls-AI/
 __pycache__/
 *.pyc
 
-# Временные файлы
+# Временные аудиофайлы
 *.wav
 temp_audio.wav
 temp.wav
 
-# Папки с данными (если пустые)
-Girls/ChuChu/
-Girls/Mai/
-Girls/logs/
-Girls/models/
-Girls/src/
-Girls/voices/
-"@ | Out-File -FilePath .gitignore -Encoding utf8
+# FFmpeg (внешняя программа)
+ffmpeg/
+
+# Логи
+*.log
